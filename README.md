@@ -6,7 +6,7 @@ or just clone the repo and run your file from there.
 
 Open your file in a Java IDE (e.g. jGrasp, BlueJ, etc.)
 
-At the top of you code, write `import java.awt.*;`  
+At the top of your code, write `import java.awt.*;`  
 
 Here's an example to get started:  
 
