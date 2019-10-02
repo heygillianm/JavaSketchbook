@@ -13,7 +13,7 @@ Here's an example to get started:
 ```java
 import java.awt.*;
 
-public class Rectangle {
+public class Example {
   public static void main(String[] args) {
     DrawingPanel panel = new DrawingPanel(400, 400); // creates a 400x400 panel
     Graphics g = panel.getGraphics(); // get the Graphics component and pass into variable
