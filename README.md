@@ -26,6 +26,8 @@ public class Example {
 }
 ```
 
+More advanced programming techniques (methods, loops, cool stuff) can greatly improve efficiency, appearance, and cool factor.
+
 `Graphics` methods can be found [here](https://docs.oracle.com/javase/7/docs/api/java/awt/Graphics.html).
 
 Alternatively, here's a screenshot of some basic methods:
