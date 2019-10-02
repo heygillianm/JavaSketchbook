@@ -19,9 +19,9 @@ public class Example {
     Graphics g = panel.getGraphics(); // get the Graphics component and pass into variable
                                       // so you can draw shapes
     
-    g.setBackground(Color.WHITE);
-    g.setColor(Color.CYAN);
-    g.fillRect(100, 100, 200, 100); // draw a cyan 200x100 rectangle with top left at (100, 100)
+    panel.setBackground(Color.WHITE);
+    g.setColor(Color.BLACK);
+    g.fillRect(100, 100, 200, 100); // draw a BLACK 200x100 rectangle with top left at (100, 100)
   }
 }
 ```
