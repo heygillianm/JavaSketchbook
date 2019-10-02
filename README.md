@@ -25,3 +25,9 @@ public class Example {
   }
 }
 ```
+
+Drawing methods can be found [here](https://docs.oracle.com/javase/7/docs/api/java/awt/Graphics.html).
+
+Alternatively, here's a low quality image of some basic functions:
+
+![GraphicsCheatsheet](images/graphicscheatsheet.png)
