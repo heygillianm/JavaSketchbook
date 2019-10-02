@@ -1,5 +1,5 @@
 # Java Sketchbook
-Uses DrawingPanel class written by Stuart Reges and Marty Stepp.
+Uses DrawingPanel class written by [Stuart Reges and Marty Stepp](http://www.buildingjavaprograms.com/).
 
 Download `DrawingPanel.java` and place it in the same folder as your `.java` file  
 or just clone the repo and run your file from there.
