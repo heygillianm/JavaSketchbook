@@ -33,3 +33,26 @@ More advanced programming techniques (methods, loops, cool stuff) can greatly im
 Alternatively, here's a screenshot of some basic methods:
 
 ![GraphicsCheatsheet](images/graphicscheatsheet.png)
+
+
+Note:
+Unable to use DrawingPanel. Keep encountering these errors:
+DrawingPanel.java:95: error: constructor DrawingPanel in class DrawingPanel cannot be applied to given types;
+   DrawingPanel panel = new DrawingPanel(400, 400); // creates a 400x400 panel
+                        ^
+  required: no arguments
+  found: int,int
+  reason: actual and formal argument lists differ in length
+DrawingPanel.java:96: error: cannot find symbol
+   Graphics g = panel.getGraphics(); // get the Graphics component and pass into variable
+                     ^
+  symbol:   method getGraphics()
+  location: variable panel of type DrawingPanel
+DrawingPanel.java:99: error: cannot find symbol
+   panel.setBackground(Color.WHITE);
+        ^
+  symbol:   method setBackground(Color)
+  location: variable panel of type DrawingPanel
+3 errors
+
+C:\Users\Admin\Documents\gillian\Unit-3-Gillian-McMahon>
